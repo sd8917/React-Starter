@@ -3,8 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshort
-![Image (1)](https://user-images.githubusercontent.com/34008023/126535868-e164bd6a-f502-4646-b609-a6f729029e34.png)
 
+![Image(1)](https://user-images.githubusercontent.com/34008023/126589444-40df40ad-8189-4322-a026-ff8a79c161ee.png)
+
+<hr />
+
+![Image (2)](https://user-images.githubusercontent.com/34008023/126589458-0d2b6dba-3156-401d-9883-37a13db8d8ca.png)
+
+<hr />
 
 ## Available Scripts
 
