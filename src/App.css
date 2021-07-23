@@ -7,10 +7,12 @@
 .card{
   display: flex;
   justify-content: center;
+ 
 }
 
 
 .d-flex{
   flex-wrap: wrap;
   justify-content: center;
+ 
 }

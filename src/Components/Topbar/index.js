@@ -1,5 +1,5 @@
 import React from 'react';
-const TopBar = () => {
+const TopBar = ({cartCount}) => {
     return (<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
             <button
@@ -25,10 +25,9 @@ const TopBar = () => {
                     <li className="nav-item">
                         <a className="nav-link" href="#">About</a>
                     </li>
-                    <li className="nav-item"   >
-                        <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"
-                        >Disabled</a
-                        >
+                    <li className="nav-item">
+                        <a className="nav-link" href="#">Cart
+                        <sup>{cartCount}</sup></a>
                     </li>
                 </ul>
                 <form className="d-flex input-group w-auto">
